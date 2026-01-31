@@ -1,0 +1,17 @@
+/Debug/
+/Release/
+/build/
+*.elf
+*.bin
+*.hex
+*.map
+
+.settings/
+.metadata/
+.path
+.project
+.cproject
+
+*.launch
+*.tmp
+*.bak
